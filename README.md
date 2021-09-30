@@ -1,4 +1,4 @@
-[Bigas](header.jpg)
+![Bigas](header.jpg)
 
 **Game Developer At [CrescentMoonGames](http://www.crescentmoongames.com)** 
 
